@@ -16,3 +16,5 @@ print(name)
 
 name = 'peter'
 print(name)
+
+print('二进制', 0b10011101)
