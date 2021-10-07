@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4a7a98a-0114-4231-88b8-760205d2a2f0" name="更改" comment="while练习.py">
-      <change beforePath="$PROJECT_DIR$/input函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/input函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/range函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stu.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/stu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/while练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/保留字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/保留字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/双分支结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/双分支结构.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多分支结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/多分支结构.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多次赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/多次赋值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/字符类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象的布尔值.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/对象的布尔值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/嵌套if.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/嵌套if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/布尔运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/布尔运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/循环结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/循环结构.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/条件表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/条件表达式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序的组织结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/程序的组织结构.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/转义字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/转义字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进制计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/进制计算.py" afterDir="false" />
+    <list default="true" id="c4a7a98a-0114-4231-88b8-760205d2a2f0" name="更改" comment="修正目录">
+      <change afterPath="$PROJECT_DIR$/基础/break流程控制语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/for-in函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +48,7 @@
       <recent name="C:\Users\Administrator\Desktop\Project\Python-Learning\基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while练习">
+  <component name="RunManager" selected="Python.break流程控制语句">
     <configuration name="循环结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +62,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\Project\Python-Learning\基础\循环结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/比较运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="布尔运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/布尔运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多次赋值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多次赋值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="break流程控制语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +309,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/比较运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/break流程控制语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="布尔运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for-in函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,53 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/布尔运算符.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="多次赋值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多次赋值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="嵌套if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\Project\Python-Learning\基础\嵌套if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/for-in函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.break流程控制语句" />
+        <item itemvalue="Python.for-in函数" />
         <item itemvalue="Python.while练习" />
         <item itemvalue="Python.循环结构" />
         <item itemvalue="Python.range函数" />
-        <item itemvalue="Python.条件表达式" />
-        <item itemvalue="Python.嵌套if" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633103233485</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="修正目录">
+      <created>1633103282362</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633103282362</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,6 +544,7 @@
     <MESSAGE value="嵌套if" />
     <MESSAGE value="条件表达式" />
     <MESSAGE value="while练习.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="while练习.py" />
+    <MESSAGE value="修正目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正目录" />
   </component>
 </project>
