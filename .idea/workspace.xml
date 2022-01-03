@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4a7a98a-0114-4231-88b8-760205d2a2f0" name="更改" comment="+">
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture上官婉儿.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture不知火舞.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture东皇太一.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture云中君.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture亚瑟.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture伽罗.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture元歌.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture公孙离.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture兰陵王.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture关羽.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture典韦.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture刘备.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture刘禅.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture刘邦.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture司马懿.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture后羿.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture吕布.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture周瑜.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture哪吒.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture墨子.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture夏侯惇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture大乔.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture太乙真人.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture女娲.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture妲己.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture姜子牙.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture娜可露露.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture嫦娥.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture嬴政.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture孙尚香.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture孙悟空.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture孙策.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture孙膑.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture安琪拉.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture宫本武藏.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture小乔.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture干将莫邪.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture庄周.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture廉颇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture弈星.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture张良.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture张飞.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture成吉思汗.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture扁鹊.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture明世隐.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture曹操.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture李信.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture李元芳.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture李白.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture杨戬.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture杨玉环.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture梦奇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture橘右京.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture武则天.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture沈梦溪.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture牛魔.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture狂铁.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture狄仁杰.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture猪八戒.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture王昭君.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture瑶.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture甄姬.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture白起.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture百里守约.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture百里玄策.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture盘古.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture盾山.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture程咬金.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture米莱狄.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture老夫子.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture芈月.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture花木兰.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture苏烈.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture蔡文姬.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture虞姬.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture裴擒虎.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture诸葛亮.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture貂蝉.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture赵云.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture达摩.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture钟无艳.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture钟馗.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture铠.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture阿轲.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture雅典娜.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture露娜.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture韩信.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture项羽.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture马可波罗.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture高渐离.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture鬼谷子.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture鲁班七号.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/picture黄忠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/项目/抢九价/九价疫苗.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +50,7 @@
       <recent name="C:\Users\Administrator\Desktop\Project\Python-Learning\基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.九价疫苗">
     <configuration name="列表元素的删除操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="王者荣耀头像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="九价疫苗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,74 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/抢九价" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="程序的组织结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/程序的组织结构.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="对象的布尔值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象的布尔值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="王者荣耀头像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/抢九价/九价疫苗.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,6 +127,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/获取指定元素索引.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="王者荣耀头像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,6 +303,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="列表的特点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/列表的特点.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="进制计算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -472,27 +358,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/列表的创建.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="列表的特点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/列表的特点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -543,6 +408,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="王者荣耀头像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="多次赋值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -556,6 +442,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多次赋值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="程序的组织结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/程序的组织结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="对象的布尔值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象的布尔值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="王者荣耀头像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取王者荣耀皮肤图片/王者荣耀头像.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -587,8 +536,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.九价疫苗" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.王者荣耀头像" />
         <item itemvalue="Python.列表元素的删除操作" />
       </list>
     </recent_temporary>
@@ -749,7 +698,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634139226352</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="+">
+      <created>1634224902586</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1634224902586</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
