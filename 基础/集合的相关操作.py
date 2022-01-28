@@ -18,3 +18,5 @@ print(s1)
 # 清空集合
 s1.clear()
 print(s1)
+
+
